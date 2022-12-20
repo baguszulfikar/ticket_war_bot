@@ -29,4 +29,4 @@ def refresh(url):
             status.remove(value)
             break
 
-    return title.contents[0], full
+    return full
